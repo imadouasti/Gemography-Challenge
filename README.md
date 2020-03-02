@@ -1,3 +1,5 @@
+This project represents a react application that displays the most starred GitHub repositories ordered by using a specific API.
+
 Run the command "npm install" to install all the node modules then you can run the application by typing "npm start" in the terminal
 
 - The src folder contains all the source code of the application
