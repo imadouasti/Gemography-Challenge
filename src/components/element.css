@@ -1,0 +1,47 @@
+body{
+    margin: auto;
+    width: 100%;
+}
+
+.mother{
+    width: 70%;
+    margin: auto ;
+    height: 150px;
+}
+
+.wrapper {
+    width: 100%;
+    margin-top: 5px;
+    padding: 10px;
+    display: inline-flex;
+}
+
+.avatar{
+    float: left;
+    width: 150px;
+}
+
+.avatar img {
+    width: 150px;
+}
+
+.infos {
+    float: left;
+    display: block;
+    margin: auto;
+    margin-left: 20px;
+}
+
+.caracs{
+    display: inline-flex;
+}
+
+.caracs p{
+    margin: 3px;
+    padding: 3px;
+}
+
+.caracs .stars,.caracs .issues{
+    border: 3px black solid;
+    padding: 3px;
+}
